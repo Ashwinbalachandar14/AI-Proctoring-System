@@ -1,0 +1,6 @@
+mediapipe
+opencv-python
+streamlit
+face_recognition
+librosa
+pyaudio
